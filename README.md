@@ -53,11 +53,13 @@ Before you begin, ensure you have the following installed:
 ### Usage
 
 - Modify the Express routes and logic in the `api` folder to build your API endpoints.
-- Customize the project as needed for your specific use case.
+- Customize the project as needed for your specific use case:
+- - Ensure to Update the `package.json` file with details of your own Project - title, name, author, repository URL etc...
 
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-Feel free to add more sections, elaborate on the API endpoints, and include any other relevant information in your README. Good luck with your project! 🚀
+Feel free to add more sections, elaborate on the API endpoints, and include any other relevant information in your README. 
+Good luck with your project! Happy Hacking! 🚀
